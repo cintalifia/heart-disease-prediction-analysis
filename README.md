@@ -4,7 +4,6 @@
 Proyek analisis data untuk memprediksi penyakit jantung menggunakan Python dan AI. Analisis mencakup EDA, statistik, visualisasi, dan identifikasi faktor risiko.
 
 ## 🔗 Dataset
-Dataset: `heart.csv`  
 - Sumber: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset
 - Format: CSV
 - Jumlah data: 1.190 baris, 12 kolom
