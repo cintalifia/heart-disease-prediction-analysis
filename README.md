@@ -5,7 +5,7 @@ Proyek analisis data untuk memprediksi penyakit jantung menggunakan Python dan A
 
 ## 🔗 Dataset
 Dataset: `heart.csv`  
-Sumber: [Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/mexwell/heart-disease-dataset)  
+Sumber: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset
 Format: CSV | Jumlah data: 1.190 baris, 12 kolom
 
 ## 🧠 Insight & Findings
@@ -17,7 +17,7 @@ Format: CSV | Jumlah data: 1.190 baris, 12 kolom
 Analisis dibantu oleh AI agent (IBM Granite/LM Studio) untuk menjalankan kode statistik dan visualisasi secara otomatis.
 
 ## 📊 How to Run
-1. Buka notebook di Google Colab: [Link Colab](https://colab.research.google.com/...)
+1. Buka notebook di Google Colab: https://colab.research.google.com/drive/1QINQBiLBcBtwf6N0aRLAZ7cVgG3spO_3#scrollTo=F_X1aKEKI1lD
 2. Dataset akan otomatis terbaca dari repository ini.
 3. Jalankan semua sel kode secara berurutan.
 
@@ -28,8 +28,3 @@ Analisis dibantu oleh AI agent (IBM Granite/LM Studio) untuk menjalankan kode st
 - Scikit-learn
 - AI Agent
 
-## 📁 Repository Structure
-- `heart.csv`: Raw dataset
-- `heart_disease_analysis.ipynb`: Notebook analisis lengkap
-- `presentation_heart_disease.pdf`: Slide presentasi
-- `README.md`: Dokumentasi project
