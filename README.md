@@ -5,8 +5,9 @@ Proyek analisis data untuk memprediksi penyakit jantung menggunakan Python dan A
 
 ## 🔗 Dataset
 Dataset: `heart.csv`  
-Sumber: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset
-Format: CSV | Jumlah data: 1.190 baris, 12 kolom
+- Sumber: https://www.kaggle.com/datasets/mexwell/heart-disease-dataset
+- Format: CSV
+- Jumlah data: 1.190 baris, 12 kolom
 
 ## 🧠 Insight & Findings
 - Usia dan detak jantung maksimal (max heart rate) adalah faktor signifikan.
